@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: sivora-official-website
+    runtime: static
+    buildCommand: echo "Static website ready"
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: true
