@@ -1,0 +1,24 @@
+SIVORA GROUP — WEBSITE TAB LOGO UPDATE
+
+The official SIVORA GROUP logo is included as the browser-tab icon on Home,
+Multimedia Studio, Trendz, Farming and Contact. An Apple home-screen icon is
+also included. The existing page content is preserved. The missing Trendz
+page is restored from your saved website page.
+
+INSTALL
+1. Extract this ZIP.
+2. Open the sivora-group-official-website repository in GitHub.
+3. Upload the five HTML files and four icon files into the repository root,
+   alongside the existing style.css, script.js and assets folder.
+4. Commit the upload and deploy the updated main branch through your existing
+   Render static-site service. Resume the service first if it is suspended.
+5. Open each page in a new browser tab to check the logo. Browser favicon
+   caches can take time to refresh; the icon links include a version suffix.
+
+Upload the extracted files, not the ZIP itself. Keep the existing assets
+folder, style.css and script.js. This is an update package for the existing
+repository, not a complete standalone website download.
+
+Verification: all five pages contain the four icon links inside their head
+section; every icon file exists and decodes at its specified size. This
+package has not been committed to GitHub or deployed to Render.
